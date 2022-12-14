@@ -1,0 +1,54 @@
+.myTeam {
+    width: 1400px;
+    height: 550px;
+    margin-left: 74px;
+    margin-top: 158px;
+
+    background: #C4EAFF;
+    border-radius: 30px;
+}
+
+#title {
+        width: 140px;
+        height: 20px;
+        margin-left: 650px;
+        padding-top: 30px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 57px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #000000;
+}
+
+#teamList {
+        border: none;
+        width: 455px;
+        height: 69px;
+        margin-left: 500px;
+        margin-top : 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background: #FFFFFF;
+        border-radius: 20px;
+}
+
+#name {
+        width: 200px;
+        height: 10px;
+        margin-bottom: 40px;
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 57px;
+        color: #000000;
+}
+

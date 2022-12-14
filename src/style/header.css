@@ -1,0 +1,95 @@
+header {
+    position: absolute;
+    width: 1500px;
+    height: 108px;
+    left: 0px;
+    top: 0px;
+}
+
+#main-text {
+    position: absolute;
+    width: 209px;
+    height: 50px;
+    left: 39px;
+    top: 27px;
+
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+#menu1 {
+    position: absolute;
+    width: 150px;
+    height: 42px;
+    left: 450px;
+    top: 33px;
+
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+#menu2 {
+    position: absolute;
+    width: 96px;
+    height: 56px;
+    left: 900px;
+    top: 32px;
+
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+#login-button {
+    position: absolute;
+    width: 221px;
+    height: 55px;
+    left: 1200px;
+    top: 27px;
+
+    background: #499AC8;
+    border-radius: 30px;
+    border: 1px solid #499AC8;
+}
+
+#login-text {
+
+
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}

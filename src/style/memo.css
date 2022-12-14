@@ -1,0 +1,152 @@
+#board {
+    display: flex;
+    position: absolute;
+    top: 150px;
+    left: 45px;
+}
+
+#blue-nemo {
+    background: #E7F6FF;
+    border-radius: 30px;
+    width : 350px;
+    height : 500px;
+}
+
+#Teamname {
+    position: absolute;
+        left: 20px;
+        top: 20px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 58px;
+    
+        color: #000000;
+}
+
+#count {
+    position: absolute;
+        left: 200px;
+        top: 23px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-size: 24px;
+        line-height: 58px;
+    
+        color: #000000;
+}
+
+#chat {
+    position: absolute;
+        left: 20px;
+        top: 125px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-size: 36px;
+        line-height: 58px;
+    
+        color: #000000;
+
+}
+
+#isChat {
+    position: absolute;
+    left: 20px;
+    top: 125px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 58px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#shcadule {
+    position: absolute;
+        left: 20px;
+        top: 200px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-size: 36px;
+        line-height: 58px;
+    
+        color: #000000;
+}
+
+#isShcadule {
+    position: absolute;
+    left: 20px;
+    top: 200px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 36px;
+    line-height: 58px;
+
+    color: #000000;
+    font-weight: 700;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+#memo {
+    position: absolute;
+    left: 20px;
+    top: 275px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 36px;
+    line-height: 58px;
+
+    color: #000000;
+}
+
+#isMemo {
+    position: absolute;
+        left: 20px;
+        top: 275px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-size: 36px;
+        line-height: 58px;
+    
+        color: #000000;
+    font-weight: 700;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#setting {
+    position: absolute;
+    left: 20px;
+    top: 350px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 36px;
+    line-height: 58px;
+
+    color: #000000;
+}
+
+#isSetting {
+    position: absolute;
+        left: 20px;
+        top: 350px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-size: 36px;
+        line-height: 58px;
+    
+        color: #000000;
+    font-weight: 700;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}

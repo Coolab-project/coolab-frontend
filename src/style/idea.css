@@ -1,0 +1,110 @@
+#ideaMemo {
+    position: absolute;
+        width: 1000px;
+        height: 1040px;
+        left: 425px;
+        top: 0px;
+    
+        background: #E7F0FF;
+        border-radius: 30px;
+        display: flex;
+        flex-direction: column;
+}
+
+#nameDiv {
+    height: 250px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+#ideaName {
+    margin-left: 15px;
+    font-size : 18px;
+    font-weight: bold;
+}
+
+#ideaArea {
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 800px;
+    height: 200px;
+    background-color: #E7F0FF;
+    border: none;
+    font-size: 20px;
+    resize: none;
+}
+
+#summary {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+#summary-text {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+#sumArea {
+    margin-top: 10px;
+        margin-left: 15px;
+        width: 800px;
+        height: 200px;
+    background-color: #E7F0FF;
+    border: none;
+    resize: none;
+    font-size: 20px;
+}
+
+#creative {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+#creative-text {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#creArea {
+    margin-top: 10px;
+        margin-left: 15px;
+        width: 800px;
+        height: 200px;
+    background-color: #E7F0FF;
+    border: none;
+    resize: none;
+    font-size: 20px;
+}
+
+#Similar {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+#similar-text {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#simArea {
+    margin-top: 10px;
+        margin-left: 15px;
+        width: 800px;
+        height: 200px;
+    background-color: #E7F0FF;
+    border: none;
+    resize: none;
+    font-size: 20px;
+}
+
+textarea:focus {
+    outline: none;
+}
